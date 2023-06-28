@@ -1,0 +1,15 @@
+
+genes
+T
+Alleles
+genotype
+I
+diploid organism
+genetic
+phenotype
+diagram
+T
+offspring
+O
+prediction
+Chi squared
