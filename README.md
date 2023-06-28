@@ -1,2 +1,2 @@
 # color_detection
-run the pipline_color
+run the color_pipline
